@@ -18,6 +18,7 @@
   "homepage": "https://github.com/jelly-garden/webpack-example#readme",
   "devDependencies": {
     "css-loader": "^5.0.1",
+    "html-webpack-plugin": "^4.5.0",
     "style-loader": "^2.0.0",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
